@@ -1,5 +1,5 @@
 ﻿﻿# Titan
-Titan Is The Latest & Fastest Discord Server Nuker Written In Python With A Mix Code Of [FROST](https://github.com/vapestr/Frost.git).
+Titan Is The Latest & Fastest Discord Server Nuker Written In Python With A Mix Code Of [FROST](https://github.com/vapestr/Frost).
 
 # SETUP
 - Install All Files In Zip
